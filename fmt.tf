@@ -1,1 +1,3 @@
-terraform fmt
+output "demo" {
+  value = "demo"
+}
