@@ -16,7 +16,7 @@ resource "aws_instance" "this" {
 
 tags = {
     Environment = "dev"
-    Owner       = "fidel"
+    Owner       = "Antonio"
     Project     = "platform-aws"
     CostCenter  = "cc-001"
   }
